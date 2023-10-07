@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **MBA tech (ce)** 
+- 🌱 I’m currently pursuing  **MBA tech (ce)** 
 
 - 📫 How to reach me **Jainhimanshu264@gmail.com**
 
